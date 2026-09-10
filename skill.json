@@ -1,0 +1,17 @@
+{
+  "name": "genpark-three-phase-commit-non-blocking-skill",
+  "version": "1.0.0",
+  "description": "Three-Phase Commit (3PC) non-blocking distributed atomic transaction protocol with CanCommit, PreCommit, and DoCommit phases.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "three-phase-commit",
+    "3pc",
+    "non-blocking-commit",
+    "distributed-consensus",
+    "fault-tolerance"
+  ],
+  "dependencies": []
+}
